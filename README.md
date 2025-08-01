@@ -1,0 +1,2 @@
+# Global-Malnutrition-Trends-Data-Analytics-Project
+This data analytics project presents an in-depth analysis of global malnutrition trends spanning from 1983 to 2019, utilizing Power BI for dynamic data visualization and storytelling. The goal is to explore how malnutrition has impacted different regions over time, highlight patterns and inequalities, and provide insight into global health progress
